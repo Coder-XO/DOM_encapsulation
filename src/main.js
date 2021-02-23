@@ -1,0 +1,1 @@
+console.log(dom.index(dom.find('#second')[0]));
